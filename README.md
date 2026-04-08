@@ -170,7 +170,7 @@ MIT公开访谈、与Paul Samuelson的四十年学术对话等一手来源深度
 ## 安装
 
 ```bash
-npx skills add [your-github-username]/solow-skill
+npx skills add ZJLavender/solow-skill
 ```
 
 然后在 Claude Code 里：
